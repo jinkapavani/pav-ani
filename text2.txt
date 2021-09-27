@@ -1,2 +1,3 @@
 hello this is text file 2
 okay
+hi
